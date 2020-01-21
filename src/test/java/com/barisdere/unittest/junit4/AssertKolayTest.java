@@ -1,4 +1,4 @@
-package com.barisdere.unittest.junit;
+package com.barisdere.unittest.junit4;
 
 import com.barisdere.unittest.ornek.HesapMakinesi;
 import static junit.framework.Assert.*;

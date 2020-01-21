@@ -1,4 +1,4 @@
-package com.barisdere.unittest.junit;
+package com.barisdere.unittest.junit4;
 
 import org.junit.Ignore;
 import org.junit.Test;
